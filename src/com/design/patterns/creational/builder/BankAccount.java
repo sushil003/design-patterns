@@ -2,6 +2,8 @@ package com.design.patterns.creational.builder;
 
 /**
  * @author Sushil
+ * https://dzone.com/articles/design-patterns-the-builder-pattern
+ * https://www.baeldung.com/creational-design-patterns
  */
 public class BankAccount {
     private String name;
